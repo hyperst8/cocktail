@@ -1,7 +1,7 @@
 {
   "name": "cocktail",
   "version": "1.0.0",
-  "description": "Cocktail app in modern JS",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "deploy": "gh-pages -d dist"
